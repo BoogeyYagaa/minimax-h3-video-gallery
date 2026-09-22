@@ -1,5 +1,7 @@
 # MiniMax H3 视频案例展示页
 
+[打开在线展示页](https://boogeyyagaa.github.io/minimax-h3-video-gallery/) · [English](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en)
+
 为 [VideoWeb AI 免费 MiniMax H3 工具合集](https://github.com/aivideoweb/best-free-minimax-h3) 提供独立的 GitHub Pages 展示页。
 
 - 桌面三列、平板两列、手机单列。
